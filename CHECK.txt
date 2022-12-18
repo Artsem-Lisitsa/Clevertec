@@ -1,0 +1,17 @@
+
+----------------------------------------
+              CASH RECEIPT
+             supermarket 345
+        12, milkyway galaxy/earth
+           Tel: 123-465-78-90
+
+CASHIER: №1624       DATE:2022-12-18
+                     TIME: 22:17:20
+________________________________________
+ QTY  DESCRIPTION     PRICE     TOTAL
+   3       Hotdog      5.34$     16,02$
+   7       Potato     15.34$     96,64$
+========================================
+TAXABLE TOT.                    112,66$
+DISCOUNT.                        10,74$
+TOTAL.                          123,40$
